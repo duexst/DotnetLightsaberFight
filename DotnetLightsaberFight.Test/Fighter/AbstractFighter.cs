@@ -41,7 +41,8 @@ namespace DotnetLightsaberFight.Test
          unknown.ChangeVitality( -20 );
          var actualVitality = unknown.Vitality;
          //Assert
-         Assert.AreEqual( 100 - 20, actualVitality );
+         // Assert.AreEqual( 100 - 20, actualVitality );
+         Assert.AreEqual(100 - 30, actualVitality);
       }
 
       [Test]
