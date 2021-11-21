@@ -1,0 +1,12 @@
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\b\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.exe
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\b\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.deps.json
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\b\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.runtimeconfig.json
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\b\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.runtimeconfig.dev.json
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\b\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.dll
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\i\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.csproj.AssemblyReference.cache
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\i\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\i\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.AssemblyInfoInputs.cache
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\i\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.AssemblyInfo.cs
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\i\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.csproj.CopyComplete
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\i\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.dll
+C:\Users\brand\source\examples\DotNetLightSaberFight\.vs\DotnetLightsaberFight\v16\lut\0\i\DotnetLightsaberFight\Debug\netcoreapp3.1\DotnetLightsaberFight.genruntimeconfig.cache
